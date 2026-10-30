@@ -1,0 +1,1 @@
+export default function SectionIntro({index,kicker,title,copy}){return <div className="section-intro"><div><span className="eyebrow">{index} / {kicker}</span><h2>{title}</h2></div>{copy&&<p>{copy}</p>}</div>}

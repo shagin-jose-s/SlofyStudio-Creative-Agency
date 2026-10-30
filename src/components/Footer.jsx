@@ -1,0 +1,3 @@
+import {Link} from 'react-router-dom';
+import {ArrowUpRight,Instagram,Dribbble, Linkedin} from 'lucide-react';
+export default function Footer(){return <footer className="footer"><div className="footer-top wrap"><div><Link to="/" className="wordmark"><span className="mark">S</span><span>SLOFY<span className="wordmark-light">STUDIO</span><sup>®</sup></span></Link><p>Independent by nature.<br/>Intentional by design.</p></div><div className="footer-cta"><small>HAVE A GOOD ONE IN MIND?</small><Link to="/contact">Let's make it happen <ArrowUpRight/></Link></div></div><div className="footer-bottom wrap"><span>© {new Date().getFullYear()} SlofyStudio. All rights reserved.</span><span>Designed with intent · Built for the web</span><a href="#top">Back to top ↑</a></div></footer>}

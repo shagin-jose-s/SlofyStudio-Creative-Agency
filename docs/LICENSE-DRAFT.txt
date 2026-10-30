@@ -1,0 +1,8 @@
+SLOFYSTUDIO TEMPLATE LICENSE — DRAFT
+Copyright (c) 2026 SlofyStudio. All rights reserved.
+
+Subject to the exact license selected at purchase, the purchaser may use and modify this template for their own website and client projects. The purchaser may not redistribute, sublicense, publish, share, or resell the template source files as a standalone product or competing template, whether modified or unmodified.
+
+This is a frontend template. Backend, hosting, CMS, domain and third-party subscriptions are not included. Third-party libraries remain subject to their own licenses.
+
+IMPORTANT: Reconcile this draft with the marketplace license and rights you intend to grant before selling. Do not promise rights you do not own.
